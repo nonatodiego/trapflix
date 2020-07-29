@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O RAP PELO RAP | Documentário sobre HIP HOP e RAP no Brasil",
-          "url": "https://youtu.be/Mt7S6YkosPc"
+          "titulo": "O TRAP NACIONAL MOSTRA A QUE VEIO",
+          "url": "https://www.youtube.com/watch?v=0n2BCNuyFm8"
         },
         {
           "titulo": "Djonga - Junho de 94",
@@ -36,140 +36,148 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Trap Nacional",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Borges - Ak do Flamengo",
+          "url": "https://www.youtube.com/watch?v=UZxnSc6VKog"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Orochi - Bailao",
+          "url": "https://www.youtube.com/watch?v=L8_116bLouo"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Sidoka - 07",
+          "url": "https://www.youtube.com/watch?v=xCpVko11RPM"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Mlks de SP",
+          "url": "https://www.youtube.com/watch?v=DqQFwivXqxI"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Kyan - Tropa da Lacosta",
+          "url": "https://www.youtube.com/watch?v=F2MDh2FjUSs"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Rap Internacional",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Future - Life is God",
+          "url": "https://youtu.be/l0U7SxXHkPY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Y2K, bbno$ - Lalala",
+          "url": "https://youtu.be/N2Y2vQ-1m7M"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Lil Nas X - Old Town Road",
+          "url": "https://youtu.be/r7qovpFAGrQ"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Childish Gambino - This Is America",
+          "url": "https://www.youtube.com/watch?v=VYOjWnS4cMY"
+        },
+        {
+          "titulo": "Drake - God's Plan",
+          "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Trap Internacional",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Young Thug - Check",
+          "url": "https://www.youtube.com/watch?v=p0x6FEDV-ig"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "21 Savage - Bank Account",
+          "url": "https://youtu.be/sV2t3tW_JTQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Migos - Walk It Talk It ",
+          "url": "https://youtu.be/fGqdIPer-ms"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "DaBaby - BOP on Broadway",
+          "url": "https://youtu.be/28hYUZMufDg"
+        },
+        {
+          "titulo": "Travis Scott - HIGHEST IN THE ROOM",
+          "url": "https://youtu.be/tfSS1e3kYeo"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Documentários",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Como Surgiu O Trap? - A Origem",
+          "url": "https://youtu.be/eDmiB_V5nHU"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "O que é plug?",
+          "url": "https://www.youtube.com/watch?v=V5vBAoANqHE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Por Que Todo Mundo Quer Fazer Trap?",
+          "url": "https://www.youtube.com/watch?v=2Whcb5F65TI"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "O RAP PELO RAP | Documentário sobre HIP HOP e RAP no Brasil",
+          "url": "https://youtu.be/Mt7S6YkosPc"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "TRAP DE CRIA - DOCUMENTÁRIO",
+          "url": "https://youtu.be/dwxElkHaipI"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "As Melhores",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Kyan - Nós é ruim e o cabelo ajuda",
+          "url": "https://www.youtube.com/watch?v=dYiRJzt1BiM"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "JAPA - DEJAVU",
+          "url": "https://youtu.be/jX-ooBxY9Mw"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Duzz - Sorry Mom ",
+          "url": "https://www.youtube.com/watch?v=4Z9vQe5RFXk"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "AltaTrap #3 Visão - Pelé MilFlows | Kyan | Drizzy | Zuluzão ",
+          "url": "https://www.youtube.com/watch?v=stiCkUeNvo0"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Phantom MOB - Vivências",
+          "url": "https://www.youtube.com/watch?v=G5Ho1V7k3lI"
         }
       ]
     }

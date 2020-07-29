@@ -51,7 +51,7 @@ body {
   cursor: pointer;
   padding: 16px 24px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   outline: none;
   border-radius: 5px;
@@ -62,6 +62,7 @@ body {
 .ButtonLink:hover,
 .ButtonLink:focus {
   opacity: 0.5;
+  background-color: #e50914;
 }
 
 @media (max-width: 800px) {
