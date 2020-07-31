@@ -5,7 +5,7 @@ function FormField({ label, type, name, value, onChange }) {
     <div>
       <label>
         {label}
-        <input type={type} name={name} value={value} onChange={onChange} />
+        <input type={type} value={value} name={name} onChange={onChange} />
       </label>
     </div>
   );
