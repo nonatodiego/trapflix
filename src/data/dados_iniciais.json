@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Rap Nacional",
+      "titulo": "Destaques Brasil",
       "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -14,24 +14,28 @@
           "url": "https://www.youtube.com/watch?v=0n2BCNuyFm8"
         },
         {
-          "titulo": "Djonga - Junho de 94",
-          "url": "https://www.youtube.com/watch?v=hTUEjPmX0tE"
+          "titulo": "Kyan - Nós é ruim e o cabelo ajuda",
+          "url": "https://www.youtube.com/watch?v=dYiRJzt1BiM"
         },
         {
-          "titulo": "Cesar Mc - Canção Infantil part. Cristal",
-          "url": "https://www.youtube.com/watch?v=Ri-eF5PJ2X0"
+          "titulo": "KayBlack - Jacaré que Dorme",
+          "url": "https://youtu.be/Hz7lFNrUNVI"
         },
         {
-          "titulo": "Emicida - AmarElo",
-          "url": "https://www.youtube.com/watch?v=PTDgP3BDPIU"
+          "titulo": "Borges - Lei Áurea",
+          "url": "https://www.youtube.com/watch?v=oZ5cXFJPXDA"
         },
         {
-          "titulo": "Rashid - Pipa Voada",
-          "url": "https://www.youtube.com/watch?v=QSdRzZeQ0Xo"
+          "titulo": "Guiu, DK47 - Racista e N1ke",
+          "url": "https://www.youtube.com/watch?v=Qduzn5HzegM"
         },
         {
-          "titulo": "Black - Apetite",
-          "url": "https://www.youtube.com/watch?v=pos7Sz-Aok0"
+          "titulo": "Japa - DEJAVU",
+          "url": "https://www.youtube.com/watch?v=jX-ooBxY9Mw"
+        },
+        {
+          "titulo": "Lembra de mim, pai?",
+          "url": "https://www.youtube.com/watch?v=77wr1uxILtw"
         }
       ]
     },
@@ -60,13 +64,17 @@
           "url": "https://www.youtube.com/watch?v=DqQFwivXqxI"
         },
         {
+          "titulo": "Matuê - Kenny G",
+          "url": "https://www.youtube.com/watch?v=b-PhvPKgWjY"
+        },
+        {
           "titulo": "Kyan - Tropa da Lacosta",
           "url": "https://www.youtube.com/watch?v=F2MDh2FjUSs"
         }
       ]
     },
     {
-      "titulo": "Rap Internacional",
+      "titulo": "Destaques Mundo",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "",
@@ -74,24 +82,28 @@
       },
       "videos": [
         {
-          "titulo": "Future - Life is God",
-          "url": "https://youtu.be/l0U7SxXHkPY"
+          "titulo": "YG - Swag",
+          "url": "https://youtu.be/EhXE4V7e-wA"
         },
         {
-          "titulo": "Y2K, bbno$ - Lalala",
-          "url": "https://youtu.be/N2Y2vQ-1m7M"
+          "titulo": "R-Mean, Berner, and Dave East - On God",
+          "url": "https://youtu.be/CCaBOJAoFao"
         },
         {
-          "titulo": "Lil Nas X - Old Town Road",
-          "url": "https://youtu.be/r7qovpFAGrQ"
+          "titulo": "SahBabii - Ready To Eat",
+          "url": "https://youtu.be/y5nROc-bN5w"
         },
         {
-          "titulo": "Childish Gambino - This Is America",
-          "url": "https://www.youtube.com/watch?v=VYOjWnS4cMY"
+          "titulo": "Blxst Slip & Slide Ft. 1TakeJay",
+          "url": "https://youtu.be/ZvA3u9sVbxQ"
         },
         {
-          "titulo": "Drake - God's Plan",
-          "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
+          "titulo": "KBFR - Hood Baby",
+          "url": "https://youtu.be/n1zga5sPAd4"
+        },
+        {
+          "titulo": "Yank$ - Fly",
+          "url": "https://youtu.be/rU2XdYd8BqY"
         }
       ]
     },
@@ -114,6 +126,10 @@
         {
           "titulo": "DaBaby - BOP on Broadway",
           "url": "https://youtu.be/28hYUZMufDg"
+        },
+        {
+          "titulo": "Rich The Kid - Racks On feat. YoungBoy Never Broke Again",
+          "url": "https://youtu.be/uHUZ-WQ2Bgo"
         },
         {
           "titulo": "Travis Scott - HIGHEST IN THE ROOM",
@@ -146,6 +162,10 @@
           "url": "https://youtu.be/Mt7S6YkosPc"
         },
         {
+          "titulo": "T.R.A.P Documentary",
+          "url": "https://www.youtube.com/watch?v=BX8sOs5IAm8"
+        },
+        {
           "titulo": "TRAP DE CRIA - DOCUMENTÁRIO",
           "url": "https://youtu.be/dwxElkHaipI"
         }
@@ -174,6 +194,10 @@
         {
           "titulo": "AltaTrap #3 Visão - Pelé MilFlows | Kyan | Drizzy | Zuluzão ",
           "url": "https://www.youtube.com/watch?v=stiCkUeNvo0"
+        },
+        {
+          "titulo": "DaLua - VVS feat Nagalli, Paiva",
+          "url": "https://www.youtube.com/watch?v=frEWefWivYk"
         },
         {
           "titulo": "Phantom MOB - Vivências",
