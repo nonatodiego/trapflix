@@ -23,7 +23,7 @@
 
 ## Sobre :memo:
 
-Trapflix é um projeto desenvolvido na imersão react da <a href=""https://www.alura.com.br/imersao-react/> Alura </a>
+Trapflix é um projeto desenvolvido na imersão react da <a href="https://www.alura.com.br/imersao-react/"> Alura </a>
 
 ## Tecnologias :rocket:
 
